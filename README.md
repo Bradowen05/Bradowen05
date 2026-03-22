@@ -1,4 +1,3 @@
-[github-profile-README.md](https://github.com/user-attachments/files/26166022/github-profile-README.md)
 <h1 align="center">Bradley Owen</h1>
 <p align="center"><strong>Full-Stack Developer</strong> · England, UK</p>
 <p align="center"><em>Self-taught since 14. No degree. Just shipped products and solved problems.</em></p>
