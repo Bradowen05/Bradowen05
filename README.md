@@ -1,35 +1,34 @@
-[github-profile-README.md](https://github.com/user-attachments/files/26165520/github-profile-README.md)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%F0%9F%94%84+Automation+Obsessed+%7C+Full-Stack+Builder;%F0%9F%9B%A0+Turning+tedious+processes+into+one-click+solutions;%F0%9F%87%AC%F0%9F%87%A7+Self-taught+%7C+Building+since+14+%7C+No+degree+needed)](https://git.io/typing-svg)
+[github-profile-README.md](https://github.com/user-attachments/files/26165555/github-profile-README.md)
+<h1 align="center">Bradley Owen</h1>
+<p align="center"><strong>Full-Stack Developer</strong> · England, UK</p>
+<p align="center"><em>Self-taught since 14. No degree. Just shipped products and solved problems.</em></p>
 
-&nbsp;
+<p align="center">
+  <a href="mailto:bradowen05@icloud.com"><img src="https://img.shields.io/badge/-bradowen05@icloud.com-1a1a1a?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/bradley-owen-2039b43b5/"><img src="https://img.shields.io/badge/-LinkedIn-1a1a1a?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Bradowen05&style=flat-square&color=1a1a1a&labelColor=1a1a1a&label=views" />
+</p>
 
-```ts
-const bradley = {
-    location:    "🇬🇧 England, UK",
-    started:     "Age 14 — self-taught, no degree, just curiosity and a laptop",
-    focus:       "Building tools that replace boring repetitive work",
-    philosophy:  "If you're doing it manually more than twice, it should be automated.",
-    currently:   "Shipping SaaS products & sharpening the full-stack toolkit",
-};
-```
+---
 
-&nbsp;
+I like building tools that take tedious manual processes and turn them into software. If you're doing it by hand more than twice, it should be automated.
 
-## `> what I've built_`
+### Projects
 
-|  |  |
-| --- | --- |
-| 🔄 **[Flippify](https://flippify.io/)**<br>A platform for resellers that automates everything between buying stock and shipping it out. Inventory syncing, crosslisting across marketplaces, and all the tedious bits in between — handled. Co-founded and built from scratch. | 📊 **[Karsilo](https://karsilo.com)**<br>A unified hub for managing multiple Stripe accounts. See exactly how much you're making across every product, every entity, every account — all in one place instead of tab-hopping between dashboards. |
-| 🔍 **Job Tracker** *(in progress)*<br>A full-stack app for managing job applications through a visual pipeline. Track status, add notes and contacts, and see where everything stands at a glance. Built with Next.js, PostgreSQL & Prisma. | 🧪 **More coming...**<br>Always building. Always automating. If there's a process that wastes time, I'm probably halfway through replacing it with software. |
+**🔄 [Flippify](https://flippify.io/)** — Automates the reselling workflow from purchase to shipment. Inventory syncing, crosslisting across marketplaces, and everything in between. Co-founded and built from scratch.
 
-&nbsp;
+**📊 [Karsilo](https://karsilo.com)** — A unified hub for multiple Stripe accounts. Track revenue across every product, entity, and account in one dashboard instead of jumping between tabs.
 
-## `> tech stack_`
+**🔍 Job Tracker** *(building now)* — Full-stack application for managing job applications through a visual pipeline with notes, contacts, and status tracking. Next.js, PostgreSQL, Prisma.
 
-[![Tech Stack](https://skillicons.dev/icons?i=ts,py,react,nextjs,nodejs,postgres,prisma,mongodb,redis,tailwind,firebase,docker,nginx,aws,git,vercel&theme=dark&perline=8)](https://skillicons.dev)
+### Stack
 
-&nbsp;
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,py,react,nextjs,nodejs,postgres,prisma,mongodb&theme=dark" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=redis,tailwind,firebase,docker,nginx,aws,git,vercel&theme=dark" />
+</p>
 
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bradowen05@icloud.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bradley-owen-2039b43b5/)
-![Profile Views](https://komarev.com/ghpvc/?username=Bradowen05&style=for-the-badge&color=0d1117&labelColor=161b22&label=PROFILE+VIEWS)
+---
+
+<p align="center"><em>Currently open to remote opportunities — especially anything involving automation, tooling, or full-stack web development.</em></p>
