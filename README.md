@@ -1,6 +1,6 @@
 <h1 align="center">Bradley Owen</h1>
 <p align="center"><strong>Full-Stack Developer</strong> · England, UK</p>
-<p align="center"><em>Coding since 14. No qualifications, just creating useful products for customers.</em></p>
+<p align="center"><em>Coding since 2017. No qualifications, just creating useful products for customers.</em></p>
 
 <p align="center">
   <a href="mailto:bradowen05@icloud.com"><img src="https://img.shields.io/badge/-bradowen05@icloud.com-1a1a1a?style=flat-square&logo=gmail&logoColor=white" /></a>
